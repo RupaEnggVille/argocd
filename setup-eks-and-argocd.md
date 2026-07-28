@@ -7,7 +7,7 @@
    metadata:
      name: argocd
      region: us-east-1
-     version: "1.32"
+     version: "1.35"
    
    vpc:
      id: "vpc-0fc0dc18b58b50dcd"
