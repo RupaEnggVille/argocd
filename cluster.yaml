@@ -7,13 +7,13 @@ metadata:
   version: "1.35"
 
 vpc:
-  id: "vpc-067485a3ed4659343"
+  id: "vpc-04aa183195614b72e"
   subnets:
     public:
       us-east-1a:
-        id: subnet-0eb206a7be9e64739
+        id: subnet-0ea93cdacb5c9cf93
       us-east-1c:
-        id: subnet-0dc8c5b6bde4d0b40
+        id: subnet-0f664177c764ae63c
 
 nodeGroups:
   - name: public-ng-1
